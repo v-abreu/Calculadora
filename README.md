@@ -1,2 +1,2 @@
-# Python_curso
-# Arquivos do curso 
+# Calculadora
+# Projeto Calculadora do Curso Python 
